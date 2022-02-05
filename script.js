@@ -95,7 +95,7 @@ function runit() {
     percentmark.innerHTML = calcuAns + "%";
     grade.innerHTML = "Your grade is:"
     grademark.innerHTML = "D";
-    pass.innerHTML = "Congratulations you passed!";
+    pass.innerHTML = "Congratulations you passed, kudos!";
   }
   else if (calcuAns >= 30 && calcuAns < 40) {
     percent.innerHTML = "Your percentage is:";
